@@ -9,6 +9,10 @@ words words words
 ----------------------
 
 
+
 the weather 
 the weather 
+
+the sun is shining
+
 
